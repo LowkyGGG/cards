@@ -1,0 +1,6 @@
+.avatar-bordered {
+  width: 40px;
+  border-radius: 50%;
+  border: white 1px solid;
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+}
